@@ -3,6 +3,7 @@ a seamless and dynamic function importing library with no use of crt or the requ
 
 ## features
 - no crt/win32 calls/includes required
+- single header
 - image and function address caching
 - a **few** comments where needed
 - lightweight and simple to use
